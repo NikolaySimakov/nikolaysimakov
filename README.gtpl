@@ -75,7 +75,6 @@ I'm interested in computer science, data science and DeFi.
 {{- range recentRepos 3 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
-{{- end }}
 ### 💻 Stack I'm Currently Learning
 
 <a href="https://github.com/Ileriayo/markdown-badges">
