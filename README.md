@@ -11,8 +11,10 @@ I'm interested in computer science, data science and DeFi.
 
 ### 👷 Currently Working On
 
-### 💼 Stack I'm Working With
 
+- [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - 
+
+### 💼 Stack I'm Working With
 <a href="https://github.com/Ileriayo/markdown-badges">
   <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -61,11 +63,13 @@ I'm interested in computer science, data science and DeFi.
     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   </p>
 </a>
-
 ### 🔨 My Recent Pull Requests
 
-### 🌱 My Pet Projects
+### 🌱 My Pet Projects                                    
 
+- [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - 
+- [NikolaySimakov/Shop-bot](https://github.com/NikolaySimakov/Shop-bot) - Шаблон Telegram бота для продажи товаров.
+- [NikolaySimakov/Blog-vuejs](https://github.com/NikolaySimakov/Blog-vuejs) - This is a blog example on vue.js &#43; firebase.
 ### 💻 Stack I'm Currently Learning
 
 <a href="https://github.com/Ileriayo/markdown-badges">
@@ -105,6 +109,11 @@ I'm interested in computer science, data science and DeFi.
 </a>
 
 ### ⭐ Recent Stars
+
+
+- [bahricanyesil/nodejs-starter-template](https://github.com/bahricanyesil/nodejs-starter-template) - You can use this template when you&#39;re starting a new project by using Node.js, Express, and Mongoose. It contains general concepts, you can customize it according to your needs.
+- [pvolnov/SellTreck](https://github.com/pvolnov/SellTreck) - API для поиска скидок в магазинах поблизости и построение маршрута по магазином с минимальной суммой корзины
+- [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
 
 ### 💻 Software
 
