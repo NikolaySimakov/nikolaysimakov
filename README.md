@@ -12,7 +12,7 @@ I'm interested in computer science, data science and DeFi.
 ### 👷 Currently Working On
 
 
-- [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - 
+- [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - about me
 
 ### 💼 Stack I'm Working With
 <a href="https://github.com/Ileriayo/markdown-badges">
@@ -67,7 +67,7 @@ I'm interested in computer science, data science and DeFi.
 
 ### 🌱 My Pet Projects                                    
 
-- [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - 
+- [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - about me
 - [NikolaySimakov/Shop-bot](https://github.com/NikolaySimakov/Shop-bot) - Шаблон Telegram бота для продажи товаров.
 - [NikolaySimakov/Blog-vuejs](https://github.com/NikolaySimakov/Blog-vuejs) - This is a blog example on vue.js &#43; firebase.
 ### 💻 Stack I'm Currently Learning
