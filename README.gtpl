@@ -11,8 +11,12 @@ I'm interested in computer science, data science and DeFi.
 
 ### 👷 Currently Working On
 
-### 💼 Stack I'm Working With
+<!-- https://github.com/muesli/readme-scribe -->
+{{- range recentContributions 3 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 
+### 💼 Stack I'm Working With
 <a href="https://github.com/Ileriayo/markdown-badges">
   <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -61,11 +65,17 @@ I'm interested in computer science, data science and DeFi.
     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   </p>
 </a>
-
 ### 🔨 My Recent Pull Requests
-
-### 🌱 My Pet Projects
-
+<!-- https://github.com/muesli/readme-scribe -->
+{{- range recentPullRequests 3 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
+### 🌱 My Pet Projects                                    
+<!-- https://github.com/muesli/readme-scribe -->
+{{- range recentRepos 3 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
+{{- end }}
 ### 💻 Stack I'm Currently Learning
 
 <a href="https://github.com/Ileriayo/markdown-badges">
@@ -105,6 +115,11 @@ I'm interested in computer science, data science and DeFi.
 </a>
 
 ### ⭐ Recent Stars
+
+<!-- https://github.com/muesli/readme-scribe -->
+{{- range recentStars 3 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 
 ### 💻 Software
 
