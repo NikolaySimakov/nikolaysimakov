@@ -12,6 +12,7 @@ I'm interested in computer science, data science and DeFi.
 ### 👷 Currently Working On
 
 
+- [NikolaySimakov/tinkoff-courses](https://github.com/NikolaySimakov/tinkoff-courses) - Solving tasks from the selection for Tinkoff courses for ML and DL
 - [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - about me
 
 ### 💼 Stack I'm Working With
@@ -67,9 +68,9 @@ I'm interested in computer science, data science and DeFi.
 
 ### 🌱 My Pet Projects                                    
 
+- [NikolaySimakov/tinkoff-courses](https://github.com/NikolaySimakov/tinkoff-courses) - Solving tasks from the selection for Tinkoff courses for ML and DL
 - [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - about me
 - [NikolaySimakov/Shop-bot](https://github.com/NikolaySimakov/Shop-bot) - Шаблон Telegram бота для продажи товаров.
-- [NikolaySimakov/Blog-vuejs](https://github.com/NikolaySimakov/Blog-vuejs) - This is a blog example on vue.js &#43; firebase.
 ### 💻 Stack I'm Currently Learning
 
 <a href="https://github.com/Ileriayo/markdown-badges">
@@ -111,9 +112,9 @@ I'm interested in computer science, data science and DeFi.
 ### ⭐ Recent Stars
 
 
+- [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
+- [kryzhikov/Sample-ML-Repo](https://github.com/kryzhikov/Sample-ML-Repo) - 
 - [bahricanyesil/nodejs-starter-template](https://github.com/bahricanyesil/nodejs-starter-template) - You can use this template when you&#39;re starting a new project by using Node.js, Express, and Mongoose. It contains general concepts, you can customize it according to your needs.
-- [pvolnov/SellTreck](https://github.com/pvolnov/SellTreck) - API для поиска скидок в магазинах поблизости и построение маршрута по магазином с минимальной суммой корзины
-- [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
 
 ### 💻 Software
 
