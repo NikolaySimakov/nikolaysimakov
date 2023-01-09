@@ -12,8 +12,8 @@ I'm interested in computer science, data science and DeFi.
 ### 👷 Currently Working On
 
 
-- [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - about me
 - [NikolaySimakov/tinkoff-courses](https://github.com/NikolaySimakov/tinkoff-courses) - Solving tasks from the selection for Tinkoff courses for ML and DL
+- [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - about me
 
 ### 💼 Stack I'm Working With
 <a href="https://github.com/Ileriayo/markdown-badges">
