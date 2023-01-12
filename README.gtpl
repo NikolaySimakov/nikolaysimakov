@@ -140,22 +140,7 @@ I'm interested in computer science, data science and DeFi.
 
 ### 📊 Statistics
 
-// <p align="center">
-//     <img alt="Hagai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nikolaysimakov&show_icons=true&theme=tokyonight" />
-// </p>
-
-<table>
-<tr>
-<td>
- 
 [![GitHub stats](https://github-readme-stats-xi-dusky.vercel.app/api?username=nikolaysimakov&count_private=true&bg_color=00000000&hide=issues&show_icons=true&hide_border=true)](https://github.com/nikolaysimakov/github-readme-stats)
-</td>
-<td>
-  
-[![Top Langs](https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=nikolaysimakov&layout=compact&bg_color=00000000&hide=dart&exclude_repo=hello-world-suite,unity-sketchfab-importer&langs_count=6&hide_border=true)](https://github.com/nikolaysimakov/github-readme-stats)
-</td>
-</tr>
-</table>
 
 <details>
   <summary>Inspired by</summary>
