@@ -112,9 +112,9 @@ I'm interested in computer science, data science and DeFi.
 ### ⭐ Recent Stars
 
 
+- [leo-elstin/Flutter-UI-Kits](https://github.com/leo-elstin/Flutter-UI-Kits) - Flutter UI Designs !! 
 - [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [kryzhikov/Sample-ML-Repo](https://github.com/kryzhikov/Sample-ML-Repo) - 
-- [bahricanyesil/nodejs-starter-template](https://github.com/bahricanyesil/nodejs-starter-template) - You can use this template when you&#39;re starting a new project by using Node.js, Express, and Mongoose. It contains general concepts, you can customize it according to your needs.
 
 ### 💻 Software
 
