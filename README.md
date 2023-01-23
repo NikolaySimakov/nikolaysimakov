@@ -112,9 +112,9 @@ I'm interested in computer science, data science and DeFi.
 ### ⭐ Recent Stars
 
 
+- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [leo-elstin/Flutter-UI-Kits](https://github.com/leo-elstin/Flutter-UI-Kits) - Flutter UI Designs !! 
 - [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
-- [kryzhikov/Sample-ML-Repo](https://github.com/kryzhikov/Sample-ML-Repo) - 
 
 ### 💻 Software
 
