@@ -13,7 +13,9 @@ I'm interested in computer science, data science and DeFi.
 
 <!-- https://github.com/muesli/readme-scribe -->
 {{- range recentContributions 3 }}
+{{- if and (ne .Name "NikolaySimakov/nikolaysimakov") }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 {{- end }}
 
 ### 💼 Stack I'm Working With
