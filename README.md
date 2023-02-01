@@ -12,6 +12,7 @@ I'm interested in computer science, data science and DeFi.
 ### 👷 Currently Working On
 
 
+- [NikolaySimakov/keyboard-translator](https://github.com/NikolaySimakov/keyboard-translator) - ⌨️ Replaces words written with characters from another language
 - [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - about me
 - [NikolaySimakov/tinkoff-courses](https://github.com/NikolaySimakov/tinkoff-courses) - Solving tasks from the selection for Tinkoff courses for ML and DL
 
@@ -64,7 +65,7 @@ I'm interested in computer science, data science and DeFi.
 ### 🌱 My Pet Projects                                    
 
 - [NikolaySimakov/tinkoff-courses](https://github.com/NikolaySimakov/tinkoff-courses) - Solving tasks from the selection for Tinkoff courses for ML and DL
-- [NikolaySimakov/Shop-bot](https://github.com/NikolaySimakov/Shop-bot) - 🛒 Telegram shop bot template
+- [NikolaySimakov/keyboard-translator](https://github.com/NikolaySimakov/keyboard-translator) - ⌨️ Replaces words written with characters from another language
 ### 💻 Stack I'm Currently Learning
 
 <a href="https://github.com/Ileriayo/markdown-badges">
