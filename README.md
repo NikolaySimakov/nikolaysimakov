@@ -105,9 +105,9 @@ I'm interested in computer science, data science and DeFi.
 ### ⭐ Recent Stars
 
 
+- [dkeysil/awesome-ton-smart-contracts](https://github.com/dkeysil/awesome-ton-smart-contracts) - 💎 A collection of awesome tools, docs and guides for developing smart contracts for the TON blockchain
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
-- [leo-elstin/Flutter-UI-Kits](https://github.com/leo-elstin/Flutter-UI-Kits) - Flutter UI Designs !! 
 
 ### 💻 Software
 
