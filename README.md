@@ -1,6 +1,6 @@
 # @NikolaySimakov
 
-I'm a fullstack developer who is passionate about developing applications, tools and libraries.
+I'm a fullstack JS developer who is passionate about developing applications, tools and libraries.
 
 I'm interested in computer science, data science and DeFi.
 
