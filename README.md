@@ -14,7 +14,7 @@ I'm interested in computer science, data science and DeFi.
 
 - [NikolaySimakov/nikolaysimakov](https://github.com/NikolaySimakov/nikolaysimakov) - about me
 - [NikolaySimakov/keyboard-translator](https://github.com/NikolaySimakov/keyboard-translator) - ⌨️ Replaces words written with characters from another language
-- [NikolaySimakov/link-shortener](https://github.com/NikolaySimakov/link-shortener) - 
+- [NikolaySimakov/link-shortener](https://github.com/NikolaySimakov/link-shortener) - Web application for creating shortened links and collecting click-through statistics
 
 ### 💼 Stack I'm Working With
 <a href="https://github.com/Ileriayo/markdown-badges">
@@ -65,7 +65,7 @@ I'm interested in computer science, data science and DeFi.
 ### 🌱 My Pet Projects                                    
 
 - [NikolaySimakov/keyboard-translator](https://github.com/NikolaySimakov/keyboard-translator) - ⌨️ Replaces words written with characters from another language
-- [NikolaySimakov/link-shortener](https://github.com/NikolaySimakov/link-shortener) - 
+- [NikolaySimakov/link-shortener](https://github.com/NikolaySimakov/link-shortener) - Web application for creating shortened links and collecting click-through statistics
 ### 💻 Stack I'm Currently Learning
 
 <a href="https://github.com/Ileriayo/markdown-badges">
