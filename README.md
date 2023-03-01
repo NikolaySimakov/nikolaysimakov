@@ -106,9 +106,9 @@ I'm interested in computer science, data science and DeFi.
 ### ⭐ Recent Stars
 
 
+- [koddo/shad-prep](https://github.com/koddo/shad-prep) - Repo for https://t.me/shad_prep
 - [urmilshroff/dashboard_reborn](https://github.com/urmilshroff/dashboard_reborn) - A very sexy Flutter UI template✨
 - [esokolov/ml-course-hse](https://github.com/esokolov/ml-course-hse) - Машинное обучение на ФКН ВШЭ
-- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
 
 ### 💻 Software
 
