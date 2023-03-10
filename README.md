@@ -106,9 +106,9 @@ I'm interested in computer science, data science and DeFi.
 ### ⭐ Recent Stars
 
 
+- [raulpy271/telegram_ecommerce](https://github.com/raulpy271/telegram_ecommerce) - 🤖 A telegram bot that can sell products and the salespeople can add, delete, and manage them.
 - [koddo/shad-prep](https://github.com/koddo/shad-prep) - Repo for https://t.me/shad_prep
 - [urmilshroff/dashboard_reborn](https://github.com/urmilshroff/dashboard_reborn) - A very sexy Flutter UI template✨
-- [esokolov/ml-course-hse](https://github.com/esokolov/ml-course-hse) - Машинное обучение на ФКН ВШЭ
 
 ### 💻 Software
 
