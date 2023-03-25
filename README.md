@@ -106,9 +106,9 @@ I'm interested in computer science, data science and DeFi.
 ### ⭐ Recent Stars
 
 
+- [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [raulpy271/telegram_ecommerce](https://github.com/raulpy271/telegram_ecommerce) - 🤖 A telegram bot that can sell products and the salespeople can add, delete, and manage them.
-- [koddo/shad-prep](https://github.com/koddo/shad-prep) - Repo for https://t.me/shad_prep
 
 ### 💻 Software
 
